@@ -1,0 +1,22 @@
+{
+  "name": "wapone/module-italian-package",
+  "description": "The Italian Package module",
+  "type": "magento2-module",
+  "license": "proprietary",
+  "version": "1.0.0",
+  "require": {
+    "php": ">=7.0"
+  },
+  "authors": [{
+    "name": "WaPoNe",
+    "email": "michele@fantetti.net",
+    "homepage": "https://www.fantetti.net",
+    "role": "Developer"
+  }],
+  "autoload": {
+    "files": ["registration.php"],
+    "psr-4": {
+      "WaPoNe\\ItalianPackage\\": ""
+    }
+  }
+}
