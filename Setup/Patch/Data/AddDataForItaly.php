@@ -153,6 +153,7 @@ class AddDataForItaly implements DataPatchInterface
             ['IT', 'SI', 'Siena'],
             ['IT', 'SR', 'Siracusa'],
             ['IT', 'SO', 'Sondrio'],
+            ['IT', 'SU', 'Sud Sardegna'],
             ['IT', 'TA', 'Taranto'],
             ['IT', 'TE', 'Teramo'],
             ['IT', 'TR', 'Terni'],
